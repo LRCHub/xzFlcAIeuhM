@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Oh! Yeah",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2026-02-07T15:27:09.614735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OH YEAH!!!",
+      "artist": "盧廣仲",
+      "has_synced": true,
+      "path": "select/01_OH_YEAH!!!_盧廣仲.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh Yeah!!!",
+      "artist": "卢广仲",
+      "has_synced": true,
+      "path": "select/02_Oh_Yeah!!!_卢广仲.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/03_Oh_Yeah_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yeah! Oh, Yeah!",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/04_Yeah!_Oh,_Yeah!_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh Yeah !",
+      "artist": "Housse de Racket",
+      "has_synced": false,
+      "path": "select/05_Oh_Yeah_!_Housse_de_Racket.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "ASH",
+      "has_synced": false,
+      "path": "select/06_Oh_Yeah_ASH.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh Yeah (feat. HiDoraah)",
+      "artist": "Young Thug feat. Young Stoner Life Records & HiDoraah",
+      "has_synced": true,
+      "path": "select/07_Oh_Yeah_(feat._HiDoraah)_Young_Thug_feat._Young_Stoner_Life_Records_&_HiDoraah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh Yeah (Feat. Hidoraah)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/08_Oh_Yeah_(Feat._Hidoraah)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "A. G. Cook",
+      "has_synced": false,
+      "path": "select/09_Oh_Yeah_A._G._Cook.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/10_Oh_Yeah_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh Oh Yeah",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/11_Oh_Oh_Yeah_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/12_Oh_Yeah_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "Built to Spill",
+      "has_synced": true,
+      "path": "select/13_Oh_Yeah_Built_to_Spill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Robot Rock / Oh Yeah",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/14_Robot_Rock___Oh_Yeah_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Robot Rock \u0000 Oh Yeah",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/15_Robot_Rock_\u0000_Oh_Yeah_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "Can",
+      "has_synced": true,
+      "path": "select/16_Oh_Yeah_Can.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oh Yeah",
+      "artist": "Can",
+      "has_synced": false,
+      "path": "select/17_Oh_Yeah_Can.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Oh Yeah, Maybe Baby",
+      "artist": "The Crystals",
+      "has_synced": false,
+      "path": "select/18_Oh_Yeah,_Maybe_Baby_The_Crystals.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Oh, Yeah, Maybe, Baby",
+      "artist": "The Crystals",
+      "has_synced": false,
+      "path": "select/19_Oh,_Yeah,_Maybe,_Baby_The_Crystals.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oh! Yeah",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_Oh!_Yeah_ORANGE_RANGE.txt"
+    }
+  ]
+}
